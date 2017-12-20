@@ -1,0 +1,2 @@
+# yourluckynumber
+Lotto stats
